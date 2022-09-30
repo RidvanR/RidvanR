@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ridvan, currently 17 years old and living in Germany
+- 👋 Hi, I’m Ridvan, 18 years old and living in Germany
 - 🌱 I’m currently learning Java and React
 
 <!---
