@@ -23,17 +23,16 @@ Backend:     PHP, Laravel, MySQL
 DevOps:      Docker, NGINX, Linux
 Tools:       Git, VSCode, Figma, n8n
 
+```
+
 <div align="center">
 
 ## 📊 GITHUB STATS
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RidvanR&theme=tokyonight&hide_border=true&show_icons=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RidvanR&theme=tokyonight&hide_border=true" />
+![RidvanR's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanR&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+
+
 
